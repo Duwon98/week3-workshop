@@ -1,0 +1,23 @@
+{
+  "name": "week3-workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duwon98/week3-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duwon98/week3-workshop/issues"
+  },
+  "homepage": "https://github.com/Duwon98/week3-workshop#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
