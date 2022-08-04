@@ -14,6 +14,10 @@ app.get('/', function (req, res) {
     res.sendFile(__dirname + "/www/form.html");
 });
 
+// app.get('/account', function (req, res) {
+//     res.sendFile(__dirname + "/www/form.html");
+// });
+
 // route to check user credentials and report if valid
 // app.post('/api/account', function (req, res) {
 //     // if there is no information from user/ just return error 

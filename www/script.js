@@ -24,7 +24,7 @@ function ajaxPost(){
                 $('#errormsg').removeClass("showmessage");
                 $('#errormsg').addClass("hidemessage");
 
-                $("#postResultDiv").html("<img src='./img/smile.png' width='400'> "+"<h2>" + "Successfully Login! + </h2> <br>"+ "<p>"+ "Email Address: " + customer.email + "<br>" +
+                $("#postResultDiv").html("<img src='./img/smile.png' width='400'> "+"<h2>" + "Successfully Login!  </h2> <br>"+ "<p>"+ "Email Address: " + customer.email + "<br>" +
                 "Password: " + customer.upwd+ "<br>" + "Valid User: " + customer.valid + "</p>");
 
             }else{
